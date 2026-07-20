@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Project data / weights / outputs (relative dirs the code reads & writes)
+/data/
+/pretrains/
+/outputs/
+/runs/
+/vis_output/
+/example_outputs/
+/test_output_parallel/
+
+# Model weights & checkpoints
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# Logs
+*.log
+events.out.tfevents.*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
