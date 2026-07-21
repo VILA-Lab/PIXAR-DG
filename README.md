@@ -3,7 +3,7 @@
 # Simple Domain Generalization for Strong<br>Pixel-Level Image Tampering Detection in Modern VLMs
 
 <p>
-  <img src="https://img.shields.io/badge/Paper-arXiv-blue?style=for-the-badge&logo=arxiv" alt="Paper (coming soon)">
+  <a href="http://arxiv.org/abs/2607.18230"><img src="https://img.shields.io/badge/Paper-arXiv-blue?style=for-the-badge&logo=arxiv" alt="Paper"></a>
   &nbsp;
   <a href="https://huggingface.co/jiachengcui888/PIXAR-7B"><img src="https://img.shields.io/badge/Base-PIXAR--7B-orange?style=for-the-badge&logo=huggingface" alt="Base model"></a>
   &nbsp;
@@ -222,8 +222,12 @@ This work builds on [PIXAR](https://arxiv.org/abs/2603.20193), [SIDA](https://gi
 
 ```bibtex
 @article{tang2026simpledg,
-  title   = {Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs},
-  author  = {Tang, Yi and Shang, Xinyi and Cui, Jiacheng and Bsharat, Sondos Mahmoud and Liu, Jiacheng and Zhao, Xiaohan and Tien, Tran Dinh and Elhagry, Ahmed and Al Khatib, Salwa K. and Yao, Tianjun and Eldar, Yonina C. and Xue, Jing-Hao and Li, Hao and Khan, Salman and Shen, Zhiqiang},
-  year    = {2026}
+  title={Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs},
+  author={Yi Tang, Xinyi Shang, Jiacheng Cui, Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao, Tran Dinh Tien, Ahmed Elhagry, Salwa K. Al Khatib, Tianjun Yao, Yonina C. Eldar, Jing-Hao Xue, Hao Li, Salman Khan, and Zhiqiang Shen},
+  year={2026},
+  eprint={2607.18230},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
 }
+
 ```
