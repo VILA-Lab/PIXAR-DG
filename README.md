@@ -22,14 +22,14 @@
 <a href="https://github.com/TangentOne"><strong>Yi Tang</strong></a><sup>1,*</sup>&ensp;
 <a href="https://scholar.google.com/citations?user=pkfBYHAAAAAJ&hl=zh-CN"><strong>Xinyi Shang</strong></a><sup>1,2,*</sup>&ensp;
 <a href="https://scholar.google.com/citations?user=SI_9kD0AAAAJ&hl=zh-CN"><strong>Jiacheng Cui</strong></a><sup>1</sup>&ensp;
-<a href="https://scholar.google.com/citations?user=m10_qBQAAAAJ&hl=zh-CN"><strong>Sondos Mahmoud Bsharat</strong><sup>1</sup><br>
-<a href="https://openreview.net/profile?id=~Jiacheng_Liu8"><strong>Jiacheng Liu</strong><sup>1</sup>&ensp;
-<a href="https://scholar.google.com/citations?user=PliLuD4AAAAJ&hl=zh-CN"><strong>Xiaohan Zhao</strong><sup>1</sup>&ensp;
-<a href="https://scholar.google.com.vn/citations?user=NTeODecAAAAJ&hl=en"><strong>Tran Dinh Tien</strong><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=m10_qBQAAAAJ&hl=zh-CN"><strong>Sondos Mahmoud Bsharat</strong></a><sup>1</sup><br>
+<a href="https://openreview.net/profile?id=~Jiacheng_Liu8"><strong>Jiacheng Liu</strong></a><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=PliLuD4AAAAJ&hl=zh-CN"><strong>Xiaohan Zhao</strong></a><sup>1</sup>&ensp;
+<a href="https://scholar.google.com.vn/citations?user=NTeODecAAAAJ&hl=en"><strong>Tran Dinh Tien</strong></a><sup>1</sup>&ensp;
 <a href="https://openreview.net/profile?id=~Ahmed_Elhagry1"><strong>Ahmed Elhagry</strong></a><sup>1</sup><br>
-<a href="https://scholar.google.com/citations?user=TWtF0CAAAAAJ&hl=en"><strong>Salwa K. Al Khatib</strong><sup>1</sup>&ensp;
-<a href="https://scholar.google.com/citations?user=JlUDjukAAAAJ&hl=en"><strong>Tianjun Yao</strong><sup>1</sup>&ensp;
-<a href="https://scholar.google.com/citations?user=vyX6kpwAAAAJ&hl=en"><strong>Yonina C. Eldar</strong><sup>3</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=TWtF0CAAAAAJ&hl=en"><strong>Salwa K. Al Khatib</strong></a><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=JlUDjukAAAAJ&hl=en"><strong>Tianjun Yao</strong></a><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=vyX6kpwAAAAJ&hl=en"><strong>Yonina C. Eldar</strong></a><sup>3</sup>&ensp;
 <a href="https://scholar.google.com/citations?user=a6Pul3UAAAAJ&hl=en"><strong>Jing-Hao Xue</strong></a><sup>2</sup><br>
 <a href="https://scholar.google.com/citations?user=NFeigSoAAAAJ&hl=en"><strong>Hao Li</strong></a><sup>1</sup>&ensp;
 <a href="https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en"><strong>Salman Khan</strong></a><sup>1</sup>&ensp;
