@@ -20,26 +20,24 @@
 
 <p>
 <a href="https://github.com/TangentOne"><strong>Yi Tang</strong></a><sup>1,*</sup>&ensp;
-<a href="https://shangxinyi.github.io/"><strong>Xinyi Shang</strong></a><sup>1,2,*</sup>&ensp;
-<a href="https://jiachengcui.com/"><strong>Jiacheng Cui</strong></a><sup>1</sup>&ensp;
-<strong>Sondos Mahmoud Bsharat</strong><sup>1</sup><br>
-<strong>Jiacheng Liu</strong><sup>1</sup>&ensp;
-<strong>Xiaohan Zhao</strong><sup>1</sup>&ensp;
-<strong>Tran Dinh Tien</strong><sup>1</sup>&ensp;
-<a href="https://www.linkedin.com/in/ahmed-adel-elhagry/"><strong>Ahmed Elhagry</strong></a><sup>1</sup><br>
-<strong>Salwa K. Al Khatib</strong><sup>1</sup>&ensp;
-<strong>Tianjun Yao</strong><sup>1</sup>&ensp;
-<strong>Yonina C. Eldar</strong><sup>3</sup>&ensp;
-<a href="https://www.homepages.ucl.ac.uk/~ucakjxu/"><strong>Jing-Hao Xue</strong></a><sup>2</sup><br>
-<a href="https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html"><strong>Hao Li</strong></a><sup>1</sup>&ensp;
-<a href="https://salman-h-khan.github.io/"><strong>Salman Khan</strong></a><sup>1</sup>&ensp;
-<a href="https://zhiqiangshen.com/"><strong>Zhiqiang Shen</strong></a><sup>1,†</sup>
+<a href="https://scholar.google.com/citations?user=pkfBYHAAAAAJ&hl=zh-CN"><strong>Xinyi Shang</strong></a><sup>1,2,*</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=SI_9kD0AAAAJ&hl=zh-CN"><strong>Jiacheng Cui</strong></a><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=m10_qBQAAAAJ&hl=zh-CN"><strong>Sondos Mahmoud Bsharat</strong><sup>1</sup><br>
+<a href="https://openreview.net/profile?id=~Jiacheng_Liu8"><strong>Jiacheng Liu</strong><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=PliLuD4AAAAJ&hl=zh-CN"><strong>Xiaohan Zhao</strong><sup>1</sup>&ensp;
+<a href="https://scholar.google.com.vn/citations?user=NTeODecAAAAJ&hl=en"><strong>Tran Dinh Tien</strong><sup>1</sup>&ensp;
+<a href="https://openreview.net/profile?id=~Ahmed_Elhagry1"><strong>Ahmed Elhagry</strong></a><sup>1</sup><br>
+<a href="https://scholar.google.com/citations?user=TWtF0CAAAAAJ&hl=en"><strong>Salwa K. Al Khatib</strong><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=JlUDjukAAAAJ&hl=en"><strong>Tianjun Yao</strong><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=vyX6kpwAAAAJ&hl=en"><strong>Yonina C. Eldar</strong><sup>3</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=a6Pul3UAAAAJ&hl=en"><strong>Jing-Hao Xue</strong></a><sup>2</sup><br>
+<a href="https://scholar.google.com/citations?user=NFeigSoAAAAJ&hl=en"><strong>Hao Li</strong></a><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en"><strong>Salman Khan</strong></a><sup>1</sup>&ensp;
+<a href="https://scholar.google.com/citations?user=DGr0fVoAAAAJ&hl=en"><strong>Zhiqiang Shen</strong></a><sup>1,†</sup>
 </p>
 
 <sub><sup>1</sup>Mohamed bin Zayed University of Artificial Intelligence&emsp;<sup>2</sup>University College London&emsp;<sup>3</sup>Weizmann Institute of Science</sub><br>
 <sub>* Equal contribution&emsp;|&emsp;† Corresponding author</sub>
-
-<br><br>
 
 <img src="./assets/comparison.png" alt="Qualitative comparison" width="900">
 <p><sub><em>Predicted tampered pixels — Ours vs. PIXAR — on four held-out (OOD) generators:
